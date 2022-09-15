@@ -1,0 +1,99 @@
+body {
+    background-color:#f2e2e26e;
+}
+
+.social {
+    display: flex; 
+    
+}
+
+header {
+    font-family: monospace;
+    color: aliceblue;
+    display: flex;
+    height: 100px;
+    justify-content:space-around;
+    align-items: center;
+    background-color: rgb(184, 1, 1);
+   
+    
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.h1 {
+   font-size: 50px;
+  
+}
+
+.subscrib {
+    font-size: 18px;
+}
+
+.date {
+    
+    margin: 0px;
+    display: flex;
+    background-color: #000000;
+    padding: 10px;
+    color: aliceblue;
+    justify-content: space-around;
+    
+}
+
+footer {
+    text-align: center;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-end;
+}
+
+.login {
+    margin-left: 20px;
+}
+
+.facebook {
+    width: 30px;
+    margin-right: 15px;
+}
+.twiter {
+    width: 30px;
+    margin-right: 15px;
+    
+}
+.instagram {
+    width: 30px;
+    margin-right: 15px;
+}
+
+.pantery {
+    width: 250px;
+    height: 250px;
+}
+.hulk {
+    width: 250px;
+    height: 250px;
+}
+.spider {
+    width: 250px;
+    height: 250px;
+}
+.capitan {
+    width: 250px;
+    height: 250px;
+}
+.thor {
+    width: 250px;
+    height: 250px;
+}
+
+
+
